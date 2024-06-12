@@ -19,9 +19,6 @@ The following approach explains the project lifecycle.
 
 • Deployment : The project is deployed using Flask on Heroku.
 
-### Webapp Link:
-Link : https://car-price-prediction-a.herokuapp.com/
-
 ### Technologies Used:
 • Jupyter Notebook is used for IDE. 
 
