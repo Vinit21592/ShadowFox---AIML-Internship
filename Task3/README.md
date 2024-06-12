@@ -1,5 +1,5 @@
 # RAG Application
-End to end RAG application using langchain as framework and Pinecone ChromaDB as vectordb
+End to end RAG application using langchain as framework and Pinecone as vectordb
 
 # Introduction
 ------------
