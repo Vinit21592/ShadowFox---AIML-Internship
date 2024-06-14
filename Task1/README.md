@@ -15,5 +15,8 @@ We use a Convolutional Neural Network (CNN) for this image classification task. 
 * Fully connected layers - Dense layer
 * Dropout for regularization
 
+## Example of CNN for image classification
+![CCN_cifar10](https://github.com/Vinit21592/ShadowFox-AIML-Internship/assets/78821357/452a3d8a-c7f2-48ac-802b-f8f7f7188c1b)
+
 ## Results
 Running 20 epochs with batch-size 32 we are able to achieve accuracy of 78.66% and validation accuracy of 73.18%. To improve accuracy we can increase epochs.
