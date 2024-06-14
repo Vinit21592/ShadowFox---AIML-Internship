@@ -30,26 +30,44 @@ The following approach explains the project lifecycle.
 
 ## How to run?
 
-### 1. Create a new environment
+### 1. Clone the Repository
 
 ```bash
-conda create -n llmapp python=3.8 -y
+git clone https://github.com/Vinit21592/ShadowFox-AIML-Internship.git
 ```
 
-### 2. Activate the environment
+### 2. Navigate to the Project Directory and press "code ." this will open vscode editor
 
 ```bash
-conda activate llmapp
+cd ShadowFox-AIML-Internship
 ```
 
-### 3. Install the requirements package
+### 3. Open terminal and navigate to Task2 folder
+
+```bash
+cd Task2
+```
+
+### 4. Create a new environment
+
+```bash
+conda create -p venv python=3.7 -y
+```
+
+### 5. Activate the environment
+
+```bash
+source activate venv/
+```
+
+### 6. Install the requirements package
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### 4. Run your application
+### 7. Run your application
 
 ```bash
-streamlit run main.py
+python app.py
 ```
