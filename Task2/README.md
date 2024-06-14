@@ -71,3 +71,6 @@ pip install -r requirements.txt
 ```bash
 python app.py
 ```
+
+### 8. After running above python script you will see this kind of app interface
+![Car-Price-Prediction app screenshot](https://github.com/Vinit21592/ShadowFox-AIML-Internship/assets/78821357/88829783-1d51-4428-91a6-7a7a43c200ba)
